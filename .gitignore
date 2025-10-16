@@ -1,0 +1,47 @@
+# === Node (React frontend) ===
+/frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.DS_Store
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.parcel-cache/
+frontend/.next/
+frontend/.turbo/
+
+# === Python (Backend) ===
+__pycache__/
+*.py[cod]
+*.pkl
+*.log
+*.sqlite3
+*.db
+*.egg-info/
+*.env
+*.venv/
+.venv/
+.env/
+.envrc
+.Python
+pip-log.txt
+
+# === Jupyter or notebook cache (if used) ===
+.ipynb_checkpoints/
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === VSCode or IDEs ===
+.vscode/
+.idea/
+
+# === Results and temporary outputs ===
+/backend/results/*.png
+/backend/results/*.json
+/backend/results/*.html
+/backend/results/*.csv
+
+# === Ignore the entire data folder ===
+backend/data/
