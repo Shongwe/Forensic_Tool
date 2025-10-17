@@ -1,4 +1,3 @@
-# feature_extractor.py
 import numpy as np
 from PIL import Image, ImageFilter
 from scipy.fftpack import dct
