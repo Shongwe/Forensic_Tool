@@ -1,4 +1,3 @@
-# === Node (React frontend) ===
 /frontend/node_modules/
 frontend/build/
 frontend/.env
@@ -10,7 +9,6 @@ frontend/.parcel-cache/
 frontend/.next/
 frontend/.turbo/
 
-# === Python (Backend) ===
 __pycache__/
 *.py[cod]
 *.pkl
@@ -26,22 +24,16 @@ __pycache__/
 .Python
 pip-log.txt
 
-# === Jupyter or notebook cache (if used) ===
 .ipynb_checkpoints/
 
-# === System Files ===
 .DS_Store
 Thumbs.db
 
-# === VSCode or IDEs ===
 .vscode/
 .idea/
 
-# === Results and temporary outputs ===
 /backend/results/*.png
-/backend/results/*.json
 /backend/results/*.html
 /backend/results/*.csv
 
-# === Ignore the entire data folder ===
 backend/data/

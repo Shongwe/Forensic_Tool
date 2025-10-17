@@ -48,13 +48,14 @@ def ai_url():
     return f"{source}?cache_bust={random.randint(0,999999)}"
 
 download_images(ai_url, AIDIR, "ai", allow_redirects=False)
-print(f"AI images saved to: {AIDIR}")
+
 
 def real_url():
     return f"{REALSOURCE}?sig={random.randint(0,999999)}"
 
 download_images(real_url, REALDIR, "real", allow_redirects=True)
-print(f"Real images saved to: {REALDIR}")
+
 
 print("Dataset download complete!")
-
+print(f"AI images saved to: {AIDIR}")
+print(f"Real images saved to: {REALDIR}")
