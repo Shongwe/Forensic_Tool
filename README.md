@@ -1,4 +1,4 @@
-# 🕵️‍♂️ AI Fingerprint Detector
+# AI Fingerprint Detector
 
 A forensic-grade tool for detecting synthetic media using handcrafted features and interpretable machine learning. Designed for transparency, auditability, and academic integration.
 
@@ -36,6 +36,7 @@ A forensic-grade tool for detecting synthetic media using handcrafted features a
 ```bash
 git clone https://github.com/your-username/ai-fingerprint-detector.git
 cd ai-fingerprint-detector
+```
 
 ### 2. Set up the backend
 ```bash
@@ -44,12 +45,13 @@ python -m venv venv
 venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 python App.py
-
+```
 ### 4. Launch the frontend
+```bash
 cd ../Frontend
 npm install
 npm start
-
+```
  ## Model Details
 • 	Type: Logistic Regression (custom gradient descent)
 • 	Input: 50-dimensional feature vector
@@ -57,6 +59,7 @@ npm start
 • 	Output: Label, confidence, top 5 contributing feature
 
 ## Project Structure
+```bash
 ├── Backend/
 │   ├── App.py
 │   ├── models/logreg_demo.npz
@@ -70,8 +73,7 @@ npm start
 │   │   ├── components/
 │   │   └── App.js
 │   └── package.json
-
-
+```
 
 
 
