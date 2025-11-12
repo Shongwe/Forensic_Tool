@@ -1,6 +1,16 @@
-# AI Fingerprint Detector
+# IT08X27 – Computer Forensics 2025
 
-A forensic-grade tool for detecting synthetic media using handcrafted features and interpretable machine learning. Designed for transparency, auditability, and academic integration.
+**AI Fingerprint Detector**
+**University of Johannesburg – Academy of Computer Science & Software Engineering**
+
+This repository contains the research, design, and implementation of a forensic tool developed for the IT08X27 Honours module. The project, titled **"Dust for AI Fingerprints"**, investigates the challenge of identifying and attributing AI-generated media in a post-truth digital landscape.
+
+---
+
+
+## Problem Statement
+
+In an era where synthetic media is indistinguishable from authentic content, forensic investigators face growing difficulty in tracing the origin of manipulated or AI-generated assets. The lack of visible tamper evidence and the sophistication of generative models pose a serious challenge to digital authenticity and legal attribution.
 
 ---
 
@@ -75,5 +85,6 @@ npm start
 │   └── package.json
 ```
 
-
+## License
+This project is for academic and research purposes only. Unauthorized use or distribution is prohibited.
 
