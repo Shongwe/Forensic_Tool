@@ -4,7 +4,12 @@
 **University of Johannesburg – Academy of Computer Science & Software Engineering**
 
 This repository contains the research, design, and implementation of a forensic tool developed for the IT08X27 Honours module. The project, titled **"Dust for AI Fingerprints"**, investigates the challenge of identifying and attributing AI-generated media in a post-truth digital landscape.
+---
+## 🎥 Demo
+Watch the project demo here:  
+https://www.youtube.com/watch?v=EcNp4zK34CM
 
+---
 ---
 
 
