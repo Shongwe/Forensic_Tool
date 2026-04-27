@@ -10,7 +10,6 @@ Watch the project demo here:
 https://www.youtube.com/watch?v=EcNp4zK34CM
 
 ---
----
 
 
 ## Problem Statement
