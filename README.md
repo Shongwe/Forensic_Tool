@@ -7,7 +7,7 @@ This repository contains the research, design, and implementation of a forensic 
 ---
 ## Demo
 Watch the project demo here:  
-https://www.youtube.com/watch?v=EcNp4zK34CM
+[![Watch the project demo](https://img.youtube.com/vi/EcNp4zK34CM/0.jpg)](https://www.youtube.com/watch?v=EcNp4zK34CM)
 
 ---
 
